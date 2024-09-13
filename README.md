@@ -19,7 +19,7 @@ Program to implement the multivariate linear regression model for predicting the
 Developed by: Roopak C S
 
 RegisterNumber: 212223220088 
-```
+```python
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
