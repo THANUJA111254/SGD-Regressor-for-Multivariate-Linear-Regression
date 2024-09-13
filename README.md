@@ -1,7 +1,7 @@
 # SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
-To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
+To write a program to predict the price of the house and number of occupants in the house with SGD regressor
 
 ## Equipments Required:
 1. Hardware – PCs
